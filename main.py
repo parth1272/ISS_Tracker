@@ -4,7 +4,7 @@ import smtplib
 import time
 
 MY_EMAIL = "parthambadkarr2@gmail.com"
-MY_PASSWORD = "nlwi kdjk iqvv badn"
+MY_PASSWORD = "nlwi kdjk iqvv badsn"
 
 MY_LAT = 21.277719 # Your latitude
 MY_LONG = 77.521858 # Your longitude
